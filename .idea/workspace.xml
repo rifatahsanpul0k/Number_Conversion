@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b91723d-c74b-42ea-a475-81601f12a8b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="8b91723d-c74b-42ea-a475-81601f12a8b6" name="Changes" comment="Added NumberConversion Java program for decimal to binary, octal, and hexadecimal conversions&#10;&#10;This commit adds a Java program that allows users to input a decimal number and select a conversion type: binary, octal, or hexadecimal. The program performs the conversion and displays the result. It also handles fractional parts and displays the result accordingly.&#10;&#10;- Created a NumberConversion class with methods for hexadecimal conversion, array to hexadecimal conversion, and decimal conversion.&#10;- Implemented decimal to binary, octal, and hexadecimal conversion functionality.&#10;- Validated user input for the conversion type (1 for binary, 2 for octal, 3 for hexadecimal).&#10;- Displayed the converted result.&#10;- Added input prompts and error handling for invalid inputs.&#10;&#10;Usage:&#10;1. Enter a decimal number.&#10;2. Select the conversion type (1 for binary, 2 for octal, 3 for hexadecimal).&#10;3. The program displays the converted result.&#10;&#10;This program provides a useful utility for converting decimal numbers into different number systems.&#10;&#10;[Optional: Add more details or explanations if needed]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numberConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/numberConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +74,24 @@
       <workItem from="1695718965722" duration="12938000" />
       <workItem from="1695733819262" duration="32000" />
       <workItem from="1695748792748" duration="52000" />
-      <workItem from="1695749745587" duration="1015000" />
+      <workItem from="1695749745587" duration="2048000" />
     </task>
+    <task id="LOCAL-00001" summary="Added NumberConversion Java program for decimal to binary, octal, and hexadecimal conversions&#10;&#10;This commit adds a Java program that allows users to input a decimal number and select a conversion type: binary, octal, or hexadecimal. The program performs the conversion and displays the result. It also handles fractional parts and displays the result accordingly.&#10;&#10;- Created a NumberConversion class with methods for hexadecimal conversion, array to hexadecimal conversion, and decimal conversion.&#10;- Implemented decimal to binary, octal, and hexadecimal conversion functionality.&#10;- Validated user input for the conversion type (1 for binary, 2 for octal, 3 for hexadecimal).&#10;- Displayed the converted result.&#10;- Added input prompts and error handling for invalid inputs.&#10;&#10;Usage:&#10;1. Enter a decimal number.&#10;2. Select the conversion type (1 for binary, 2 for octal, 3 for hexadecimal).&#10;3. The program displays the converted result.&#10;&#10;This program provides a useful utility for converting decimal numbers into different number systems.&#10;&#10;[Optional: Add more details or explanations if needed]">
+      <option name="closed" value="true" />
+      <created>1695751184077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695751184077</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added NumberConversion Java program for decimal to binary, octal, and hexadecimal conversions&#10;&#10;This commit adds a Java program that allows users to input a decimal number and select a conversion type: binary, octal, or hexadecimal. The program performs the conversion and displays the result. It also handles fractional parts and displays the result accordingly.&#10;&#10;- Created a NumberConversion class with methods for hexadecimal conversion, array to hexadecimal conversion, and decimal conversion.&#10;- Implemented decimal to binary, octal, and hexadecimal conversion functionality.&#10;- Validated user input for the conversion type (1 for binary, 2 for octal, 3 for hexadecimal).&#10;- Displayed the converted result.&#10;- Added input prompts and error handling for invalid inputs.&#10;&#10;Usage:&#10;1. Enter a decimal number.&#10;2. Select the conversion type (1 for binary, 2 for octal, 3 for hexadecimal).&#10;3. The program displays the converted result.&#10;&#10;This program provides a useful utility for converting decimal numbers into different number systems.&#10;&#10;[Optional: Add more details or explanations if needed]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added NumberConversion Java program for decimal to binary, octal, and hexadecimal conversions&#10;&#10;This commit adds a Java program that allows users to input a decimal number and select a conversion type: binary, octal, or hexadecimal. The program performs the conversion and displays the result. It also handles fractional parts and displays the result accordingly.&#10;&#10;- Created a NumberConversion class with methods for hexadecimal conversion, array to hexadecimal conversion, and decimal conversion.&#10;- Implemented decimal to binary, octal, and hexadecimal conversion functionality.&#10;- Validated user input for the conversion type (1 for binary, 2 for octal, 3 for hexadecimal).&#10;- Displayed the converted result.&#10;- Added input prompts and error handling for invalid inputs.&#10;&#10;Usage:&#10;1. Enter a decimal number.&#10;2. Select the conversion type (1 for binary, 2 for octal, 3 for hexadecimal).&#10;3. The program displays the converted result.&#10;&#10;This program provides a useful utility for converting decimal numbers into different number systems.&#10;&#10;[Optional: Add more details or explanations if needed]" />
   </component>
 </project>
